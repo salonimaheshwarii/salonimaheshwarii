@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**salonimaheshwarii/salonimaheshwarii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Saloni!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer always looking to learn and create something amazing. I specialize in frontend development, and I'm constantly exploring new cloud technologies and challenges. I love collaborating on projects that push the limits of creativity and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools I Use
+
+- 💻 **Languages**: Python, JavaScript, C++, HTML/CSS
+- 🛠️ **Frameworks**: React, Next.js, Vue.js, Node.js, Express,
+- 📦 **Tools & Platforms**: Git, GitHub, Docker, AWS, Firebase
+- 🌐 **Other**: Docker
+
+
+## 🤝 Let’s Connect
+
+- 📧 Email: salonimaheshwari2113@gmail.com
+- 🦸‍♂️ LinkedIn: https://www.linkedin.com/in/saloni-maheshwari-756830/
+
+
+Feel free to check out my repositories, contribute, or simply say hello! 👋
+
+---
+
+Happy coding! 💻
